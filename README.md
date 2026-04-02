@@ -20,7 +20,7 @@ Upload any PDF and ask questions in natural language!
 ## ⚙️ Installation
 
 1. Clone the repo
-   git clone https://github.com/BobbyBohra/AskMyDocs-RAG-Chatbot.git
+   git clone https://github.com/BobbyBohra/ASKMYDOCS.git
 
 2. Install dependencies
    pip install -r requirements.txt
