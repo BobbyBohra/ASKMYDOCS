@@ -1,4 +1,5 @@
 streamlit
 chromadb
-langchain
-openai
+groq
+pypdf
+python-dotenv
